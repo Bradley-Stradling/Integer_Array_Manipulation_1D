@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Integer_Array_Manipulation_Functions.cpp">
+    <ClCompile Include="Integer_Array_Manipulation_Main_1D.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Integer_Array_Manipulation_Main.cpp">
+    <ClCompile Include="Integer_Array_Manipulation_Functions_1D.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -27,7 +27,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Integer_Array_Manipulation.h">
+    <ClInclude Include="Integer_Array_Manipulation_1D.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

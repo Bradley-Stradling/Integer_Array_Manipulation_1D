@@ -2,7 +2,7 @@
 
 //Author: Bradley Stradling
 //******************************************************************************
-#include "Integer_Array_Manipulation.h"
+#include "Integer_Array_Manipulation_1D.h"
 
 // int i shall be used as an iterator to count looping.
 

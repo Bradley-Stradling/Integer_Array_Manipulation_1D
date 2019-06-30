@@ -159,15 +159,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Integer_Array_Manipulation_Main_1D.cpp" />
-    <ClCompile Include="Integer_Array_Manipulation_Functions_1D.cpp" />
+    <ClCompile Include="Source\Integer_Array_Manipulation_Main_1D.cpp" />
+    <ClCompile Include="Source\Integer_Array_Manipulation_Functions_1D.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="ReadMe.txt" />
     <Text Include="License.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Integer_Array_Manipulation_1D.h" />
+    <ClInclude Include="Source\Integer_Array_Manipulation_1D.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

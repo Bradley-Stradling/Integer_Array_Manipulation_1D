@@ -1,5 +1,0 @@
-Goal:
-Create a console window application that shows results of various 
-1 dimensional numeric array manipulations and displays them on screen.
-
-

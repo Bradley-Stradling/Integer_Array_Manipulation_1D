@@ -166,7 +166,7 @@
     <ClInclude Include="Integer_Array_Manipulation.h" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Plan.txt" />
+    <Text Include="ReadMe.txt" />
     <Text Include="License.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

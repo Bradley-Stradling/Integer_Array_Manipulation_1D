@@ -4,7 +4,7 @@ Code contained in Source folder.
 
 Goal:
 Create A console window application that shows results of various 
-1 dimensional numeric array manipulations and displays screen.
+1 dimensional numeric array manipulations and displays them on screen.
 
 Each array manipulation function is labeled on the end of its name with "_1D"
 to represent the algorithm is used for 1 dimensional arrays.

@@ -1,3 +1,5 @@
+This is a C++ Console program written in Microsoft Visual Studios 2019.
+
 Goal:
 Create A console window application that shows results of various 
 1 dimensional numeric array manipulations and displays screen.
